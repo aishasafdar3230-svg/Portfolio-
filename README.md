@@ -34,4 +34,4 @@ I built this portfolio from scratch using HTML, CSS, and JavaScript. .
 
 ---
 
-Thanks for stopping by! ⭐
+
